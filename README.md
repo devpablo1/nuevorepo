@@ -1,2 +1,2 @@
 # nuevorepo
-aprendiendo
+aprendiendo readme y git
